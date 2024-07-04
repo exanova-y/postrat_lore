@@ -8,6 +8,9 @@ Make sure you go to the community plugins section and look for excalidraw.
 After you have it downloaded, just drag and drop the file.   
 
 
+Feel free to open pull requests or fork the repository.   
+
+
 # References   
 Yoyo's knowledge   
 https://www.lesswrong.com/tag/history-of-less-wrong
