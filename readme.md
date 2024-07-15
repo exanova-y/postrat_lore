@@ -1,5 +1,6 @@
 # Rationality diaspora tree
-![image](https://github.com/exanova-y/rat_lore/assets/52893812/a6960269-8fde-41c2-be65-e2d07058352d)
+![image](https://github.com/user-attachments/assets/a4724e18-5c92-4004-b204-48c4fc96bbba)
+
 
 # To edit
 Git clone the repository.   
