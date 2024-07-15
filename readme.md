@@ -1,5 +1,6 @@
-# Rationality diaspora tree
-![image](https://github.com/user-attachments/assets/3c359b0d-9877-4b97-ac0c-8f89f73226a8)
+# Rationality Lore
+![image](https://github.com/user-attachments/assets/d68b8372-de91-467f-a85a-fd5c23eaca70)
+
 
 
 
