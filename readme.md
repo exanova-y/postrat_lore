@@ -1,5 +1,6 @@
 # Rationality diaspora tree
-![image](https://github.com/user-attachments/assets/a4724e18-5c92-4004-b204-48c4fc96bbba)
+![image](https://github.com/user-attachments/assets/3c359b0d-9877-4b97-ac0c-8f89f73226a8)
+
 
 
 # To edit
